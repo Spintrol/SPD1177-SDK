@@ -1,1 +1,0 @@
-请将FLM文件复制到Keil MDK安装目录下的ARM\Flash文件夹下。
